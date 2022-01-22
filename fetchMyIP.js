@@ -21,5 +21,4 @@ const fetchMyIP = function(/*callback*/) { // request URL endpoint
   });
 };
 
-fetchMyIP();
 module.exports = { fetchMyIP };
